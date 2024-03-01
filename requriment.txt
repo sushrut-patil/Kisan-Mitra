@@ -1,1 +1,10 @@
-torch ==2.2.1
+Flask
+Jinja2
+matplotlib
+numpy
+pandas
+Pillow
+requests
+torch
+torchvision
+scikit-learn==1.0.2
